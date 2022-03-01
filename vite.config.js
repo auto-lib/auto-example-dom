@@ -1,7 +1,5 @@
-export default {
-    esbuild: {
-        jsxFactory: 'h',
-        jsxFragment: 'Fragment',
-        jsxInject: `import { h, Fragment } from 'start-dom-jsx';`
-    }
-}
+// import autodom from '@autolib/autodom-vite-plugin';
+
+// export default {
+//     plugins: [autodom()],
+// }
