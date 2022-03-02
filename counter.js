@@ -1,17 +1,3 @@
-// function Counter() {
-
-//   let _ = auto({
-//   	count: 0
-//   })
-
-//   setInterval(() => { _.count += 1; }, 1000);
-
-//   return <div>The count is: {_.count}</div>;
-// }
-
-// autodom.render(<Counter />)
-
-// ---- //
 
 function Counter(interval) {
 
